@@ -1,0 +1,81 @@
+
+Timpii pentru testul 1
+Timpul pentru BubbleSort este: 0 nanosecunde
+Timpul pentru MergeSort este: 7654000 nanosecunde
+Timpul pentru ShellSort este: 0 nanosecunde
+Timpul pentru CountSort este: 0 nanosecunde
+Timpul pentru RadixSort este: 2014000 nanosecunde
+Timpul pentru QuickSort este: 0 nanosecunde
+Timpul pentru Sortarea nativa este: 0 nanosecunde
+
+Timpii pentru testul 2
+Timpul pentru BubbleSort este: 0 nanosecunde
+Timpul pentru MergeSort este: 0 nanosecunde
+Timpul pentru ShellSort este: 5008000 nanosecunde
+Timpul pentru CountSort este: 0 nanosecunde
+Timpul pentru RadixSort este: 0 nanosecunde
+Timpul pentru QuickSort este: 0 nanosecunde
+Timpul pentru Sortarea nativa este: 0 nanosecunde
+
+Timpii pentru testul 3
+Timpul pentru BubbleSort este: 10922000 nanosecunde
+Timpul pentru MergeSort este: 0 nanosecunde
+Timpul pentru ShellSort este: 9011000 nanosecunde
+Timpul pentru CountSort este: 10347000 nanosecunde
+Timpul pentru RadixSort este: 0 nanosecunde
+Timpul pentru QuickSort este: 12330000 nanosecunde
+Timpul pentru Sortarea nativa este: 7509000 nanosecunde
+
+Timpii pentru testul 4
+Timpul pentru BubbleSort este: 5018000 nanosecunde
+Timpul pentru MergeSort este: 9772000 nanosecunde
+Timpul pentru ShellSort este: 4517000 nanosecunde
+Timpul pentru CountSort este: 5526000 nanosecunde
+Timpul pentru RadixSort este: 11347000 nanosecunde
+Timpul pentru QuickSort este: 0 nanosecunde
+Timpul pentru Sortarea nativa este: 8992000 nanosecunde
+
+Timpii pentru testul 5
+Timpul pentru BubbleSort este: 69694000 nanosecunde
+Timpul pentru MergeSort este: 60241000 nanosecunde
+Timpul pentru ShellSort este: 60109000 nanosecunde
+Timpul pentru CountSort este: 59892000 nanosecunde
+Timpul pentru RadixSort este: 60106000 nanosecunde
+Timpul pentru QuickSort este: 63999000 nanosecunde
+Timpul pentru Sortarea nativa este: 63579000 nanosecunde
+
+Timpii pentru testul 6
+Timpul pentru BubbleSort este: 74854000 nanosecunde
+Timpul pentru MergeSort este: 55569000 nanosecunde
+Timpul pentru ShellSort este: 70827000 nanosecunde
+Timpul pentru CountSort este: 63778000 nanosecunde
+Timpul pentru RadixSort este: 65398000 nanosecunde
+Timpul pentru QuickSort este: 60942000 nanosecunde
+Timpul pentru Sortarea nativa este: 58580000 nanosecunde
+
+Timpii pentru testul 7
+Timpul pentru BubbleSort este: 730371000 nanosecunde
+Timpul pentru MergeSort este: 540035000 nanosecunde
+Timpul pentru ShellSort este: 559631000 nanosecunde
+Timpul pentru CountSort este: 621159000 nanosecunde
+Timpul pentru RadixSort este: 530822000 nanosecunde
+Timpul pentru QuickSort este: 568155000 nanosecunde
+Timpul pentru Sortarea nativa este: 582738000 nanosecunde
+
+Timpii pentru testul 8
+Timpul pentru BubbleSort este: 25621641000 nanosecunde
+Timpul pentru MergeSort este: 5306581000 nanosecunde
+Timpul pentru ShellSort este: 5320374000 nanosecunde
+Timpul pentru CountSort este: 5429973000 nanosecunde
+Timpul pentru RadixSort este: 5234794000 nanosecunde
+Timpul pentru QuickSort este: 5284077000 nanosecunde
+Timpul pentru Sortarea nativa este: 5298252000 nanosecunde
+
+Timpii pentru testul 9
+Timpul pentru BubbleSort este: 675472000 nanosecunde
+Timpul pentru MergeSort este: 524751000 nanosecunde
+Timpul pentru ShellSort este: 517393000 nanosecunde
+Timpul pentru CountSort este: 508354000 nanosecunde
+Timpul pentru RadixSort este: 511455000 nanosecunde
+Timpul pentru QuickSort este: 507785000 nanosecunde
+Timpul pentru Sortarea nativa este: 507384000 nanosecunde
